@@ -1,12 +1,12 @@
 {
   "site": {
-    "title": "Bigspring Light Nextjs",
+    "title": "Digital Visio LTD",
     "base_url": "/",
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
     "logo_width": "200",
     "logo_height": "48",
-    "logo_text": "Bigspring Light"
+    "logo_text": "Digital Visio"
   },
 
   "settings": {
@@ -29,8 +29,8 @@
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
+    "meta_author": "Digital Visio",
     "meta_image": "",
-    "meta_description": "A SAAS template for nextjs"
+    "meta_description":Fantastic IT solutions"
   }
 }
