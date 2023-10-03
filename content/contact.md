@@ -7,6 +7,6 @@ info:
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
   contacts: 
     - "phone: +447454381247"
-    - "Mail: [rwanbd@hotmail.com](mailrwanbd@hotmail.com)"
+    - "Mail: [rwanbd@gmail.com](mailto:rwanbd@gmail.com)"
     - "Address: 27 Old Gloucester Street LONDON WC1N 3AX UNITED KINGDOM"
 ---
